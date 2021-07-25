@@ -26,6 +26,7 @@ posd=[-2 -1 0 1 2 3 4 5 6 7]'
 % end
 
 
+
 % Show how differentiation blows up noise
 
 mpos = posd + 0.01*randn(size(posd));
